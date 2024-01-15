@@ -10,7 +10,8 @@
 
 3. Tampilan update data
 
-
+![C](media/C.png)
 
 4. Tampilan data mahasiswa
 
+![D](media/D.png)
